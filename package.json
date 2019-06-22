@@ -1,0 +1,27 @@
+{
+  "name": "one-funny-package",
+  "version": "1.0.0",
+  "description": "another one for testing",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.2.0",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravrawat440/one-funny-package.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "gaurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravrawat440/one-funny-package/issues"
+  },
+  "homepage": "https://github.com/gauravrawat440/one-funny-package#readme"
+}
